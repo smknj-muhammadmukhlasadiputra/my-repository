@@ -6,3 +6,4 @@ Rencana konten rpl :
  * CSS dasar
 - menguasai JAVASCRIPT
  * JS dasar
+- menguasai git & github
