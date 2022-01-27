@@ -11,3 +11,4 @@ Rencana konten rpl :
   ^ React
 - menguasai git & github
 - menguasai PHP
+- menguasai framework
