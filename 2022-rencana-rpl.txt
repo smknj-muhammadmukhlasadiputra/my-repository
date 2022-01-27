@@ -7,8 +7,11 @@ Rencana konten rpl :
 - menguasai JAVASCRIPT
  * JS dasar
  * framework javascript
+  ^ Vue
   ^ Angular
   ^ React
 - menguasai git & github
+- menguasai PHP
 - menguasai python
 - Vlogs
+
