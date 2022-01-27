@@ -6,9 +6,12 @@ Rencana konten rpl :
  * CSS dasar
 - menguasai JAVASCRIPT
  * JS dasar
- * Framework javascript
+ * framework javascript
   ^ Vue
+  ^ Angular
   ^ React
 - menguasai git & github
 - menguasai PHP
-- menguasai framework
+- menguasai python
+- Vlogs
+
