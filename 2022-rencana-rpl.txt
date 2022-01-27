@@ -8,5 +8,6 @@ Rencana konten rpl :
  * JS dasar
  * Framework javascript
   ^ Vue
+  ^ React
 - menguasai git & github
 - menguasai PHP
