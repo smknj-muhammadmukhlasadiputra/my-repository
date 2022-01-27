@@ -1,0 +1,5 @@
+Rencana konten rpl :
+
+- menguasai HTML
+- menguasai CSS
+- menguasai JAVASCRIPT
